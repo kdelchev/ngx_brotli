@@ -47,7 +47,7 @@ cmake --build . --config Release --target brotlienc
 cd ../../../..
 ```
 
-Then either choose static or dynamic method depending on you needs.
+Then either choose static or dynamic method depending on your needs.
 
 ### Statically compiled
 
